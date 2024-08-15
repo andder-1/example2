@@ -20,3 +20,4 @@
 }
 export default App 
 - PASO7: crear dos carpetas llamadas styles y components dentro del src luego el index.css eviarlo a la carpeta styles
+- PASO8: subir tu proyecto a git
